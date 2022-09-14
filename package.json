@@ -31,5 +31,13 @@
     "yargs": "^17.5.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camazaru/server-coder-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/camazaru/server-coder-new/issues"
+  },
+  "homepage": "https://github.com/camazaru/server-coder-new#readme",
   "description": ""
 }
